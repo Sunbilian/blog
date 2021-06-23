@@ -44,7 +44,7 @@ Current Platform：
     - [simpread](https://github.com/Kenshin/simpread)：[instructions](https://github.com/Kenshin/simpread/issues/893)
 - Mobile App(developing)
 
-## Example Sitehhhh
+## Example Sitewwww
 
 [http://mrdoc.zmister.com](http://mrdoc.zmister.com)
 
